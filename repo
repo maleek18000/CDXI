@@ -1,7 +1,6 @@
 {
   "name": "CDXI Repo",
   "description": "Xtream IPTV Provider - Live TV, Movies & Series",
-  "pluginLists": [
-    "https://raw.githubusercontent.com/maleek18000/CDXI/main/plugins.json"
-  ]
+  "manifestVersion": 1,
+  "pluginLists": ["https://raw.githubusercontent.com/maleek18000/CDXI/main/plugins.json"]
 }
