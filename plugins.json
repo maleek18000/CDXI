@@ -1,7 +1,22 @@
 [
   {
-    "name": "XtreamIPTVProvider",
-    "url": "https://raw.githubusercontent.com/maleek18000/CDXI/main/XtreamIPTVProvider.cs3",
-    "api": 2
+    "iconUrl": "https://gitlab.com/tearrs/cloudstream-vietnamese/-/raw/master/no-image.webp",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/maleek18000/CDXI",
+    "fileSize": 34945,
+    "status": 3,
+    "language": "en",
+    "authors": [
+      "anhdaden"
+    ],
+    "tvTypes": [
+      "Live",
+      "Movie",
+      "TvSeries"
+    ],
+    "version": 2,
+    "internalName": "XtreamIPTVProvider",
+    "url": "https://github.com/maleek18000/CDXI/raw/refs/heads/main/XtreamIPTVProvider.cs3",
+    "name": "XtreamIPTV"
   }
 ]
