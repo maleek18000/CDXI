@@ -1,5 +1,4 @@
 *.apk
-*.cs3
 *.dex
 build/
 local.properties
